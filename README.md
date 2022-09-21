@@ -5,7 +5,8 @@ Notion - discord integration for daily task reminder.
 - [x] Create the output text
 - [x] Retrieve Database
 - [ ] create yaml
-- [ ] Discord bot
+- [x] Discord bot
 - [ ] Deploy bot
+- [ ] Comment at
 
 Yusuf Onat Yılmaz
